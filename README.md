@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome :wave:
 
 <!--
 **llamasrock/llamasrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently I am a Master of Applied Cybernetics student at Australian National University's School of Cybernetics. 
+
+I am new to GitHub and would like to learn how to use to collaborate on coding projects with my classmates. 
+
+My objectives for the second and final semester of my degree:
+- Integrate GitHub into my coding environment
+- Learn best practices for collaborative coding
