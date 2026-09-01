@@ -2,7 +2,9 @@
 
 I work at the intersection of AI engineering and AI safety — evaluating, improving, and building GenAI systems people can trust.
 
-I was a Research Engineer at the Australian National University's [Machine Intelligence and Normative Theory (MINT) Lab](https://mintresearch.org), where I evaluate the moral competence of large language models and build GenAI tooling for research workflows. Before pivoting into AI, I spent 15+ years in data and business analytics at organisations including Sophos and Deutsche Post DHL — experience that shapes how I bridge research rigour with real-world stakeholder needs.
+I was a Research Engineer at the Australian National University's [Machine Intelligence and Normative Theory (MINT) Lab](https://mintresearch.org), where I evaluated the moral competence of large language models and build GenAI tooling for research workflows. Before pivoting into AI, I spent 15+ years in data and business analytics at organisations including Sophos and Deutsche Post DHL — experience that shapes how I bridge research rigour with real-world stakeholder needs.
+
+Outside of work, I bake sourdough loaves every week, play tennis, dance to swing jazz music and occasionally go scuba diving. I have recently started sewing, a hobby which sometimes keeps me up at night as I try to figure out how to tackle the unknown or decide which project to work on next. More importantly, I am a loyal servant to our fluffy overlord cat called Milo. 
 
 ## 🔍 What I work on
 
@@ -18,12 +20,8 @@ I was a Research Engineer at the Australian National University's [Machine Intel
 
 ## 🗂️ A note on this profile
 
-Much of my recent engineering work lives in the MINT Lab organisation and in private research repositories. I'm always happy to walk through the architecture and code in a conversation — just reach out.
+Much of my recent engineering work lives in the MINT Lab organisation and in private research repositories. I'm always happy to walk through the experiments and code in a conversation — just reach out.
 
 ## 📫 Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/secilyanik)
-
----
-
-*Outside of work: sourdough baking, tennis, and scuba diving — three hobbies that reward patience, iteration, and close attention.*
