@@ -2,7 +2,7 @@
 
 I work at the intersection of AI engineering and AI safety — evaluating, improving, and building GenAI systems people can trust.
 
-For the last 2 years, I was a Research Engineer at the Australian National University's [Machine Intelligence and Normative Theory (MINT) Lab](https://mintresearch.org) where I evaluated the moral competence of large language models and built GenAI tooling for research workflows. Before pivoting into AI, I spent 15+ years in data and business analytics at organisations including Sophos and Deutsche Post DHL — experience that shapes how I bridge research rigour with real-world stakeholder needs.
+For the last 2 years, I was a Research Engineer at the Australian National University's [Machine Intelligence and Normative Theory (MINT) Lab](https://mintresearch.org) where I worked on evaluating the moral competence of large language models and built GenAI tooling for research workflows. Before pivoting into AI, I spent 15+ years in data and business analytics at organisations including Sophos and Deutsche Post DHL — experience that shapes how I bridge research rigour with real-world stakeholder needs.
 
 I hold a master's degree in Applied Cybernetics from Australian National University, a MicroMasters credential from MITx on Statistics and Data Science and a bachelor's degree in Business Informatics from Marmara University. 
 
