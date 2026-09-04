@@ -6,9 +6,9 @@ For the last 2 years, I was a Research Engineer at the Australian National Unive
 
 I hold a master's degree in Applied Cybernetics from Australian National University, a MicroMasters credential from MITx on Statistics and Data Science and a bachelor's degree in Business Informatics from Marmara University. 
 
-Outside of work, I bake sourdough loaves every week, play tennis, dance to swing jazz and occasionally go scuba diving. I have recently started sewing, a hobby which sometimes keeps me up at night as I try to figure out how to tackle the unknown or decide which project to work on next. More importantly, I am a loyal servant to our fluffy overlord cat called Milo. 
+Outside of work, I bake sourdough loaves every week, play tennis, dance to swing jazz and occasionally go scuba diving. I have recently started sewing, a hobby which sometimes keeps me up at night as I try to figure out how to tackle the unknown or decide which project to work on next. More importantly, I am a loyal servant to our fluffy overlord called Milo. 
 
-Check out my [LinkedIn profile](https://www.linkedin.com/in/secilyanik) to find out more about my career.
+Check out my [LinkedIn profile](https://www.linkedin.com/in/secilyanik) to find out more about my career and skills.
 
 ## 🔍 What I work on
 
